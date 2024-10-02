@@ -1,0 +1,11 @@
+img{
+   width: 120px;
+    height: 200px;
+    margin: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+p{
+    margin-left: 30px;
+}
